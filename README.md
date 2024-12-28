@@ -1,9 +1,9 @@
-# OMOP-Anonymization-and-Mapping
-**Description:**  
-This repository contains scripts and documentation for anonymizing and mapping synthetic healthcare data to the OMOP Common Data Model (CDM). The project involves processing a dataset of five patients, including tables on demographics, diagnoses, lab results, medications, and procedures. Tasks include:  
+# 🚀 **OMOP-Anonymization-and-Mapping: Empowering Healthcare Data Privacy and Standardization**
 
-- **Anonymization**: Implementing robust techniques to ensure patient data privacy.  
-- **Mapping to OMOP Standards**: Translating dataset fields to standardized terminologies using Athena OHDSI.  
-- **Harmonization**: Coordinating data across tables for consistency and Datathon usability.  
+Welcome to **OMOP-Anonymization-and-Mapping**, a comprehensive repository designed to facilitate the anonymization and mapping of synthetic healthcare data to the OMOP Common Data Model (CDM). This project is a critical step towards ensuring patient data privacy while enabling robust data analysis and interoperability.
 
-This repository is designed to serve as a comprehensive guide for turning raw healthcare data into anonymized, standardized, and research-ready formats, enabling future applications in analytics and interoperability.
+## 🔐 **Anonymization: Ensuring Patient Data Privacy**
+Our repository includes scripts that implement advanced techniques to anonymize patient data, ensuring that sensitive information is protected while maintaining the integrity of the dataset.
+
+## 🌐 **Mapping to OMOP Standards: Standardizing Healthcare Terminologies**
+We utilize Athena OHDSI to translate dataset fields into standardized terminologies, aligning with the OMOP CDM. This process is essential for achieving consistency and comparability across different datasets.
